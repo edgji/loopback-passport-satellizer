@@ -1,0 +1,24 @@
+{
+  "name": "loopback-passport-satellizer",
+  "version": "0.0.1",
+  "description": "collection of functions to help easily extend loopback to support satellizer through JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/edgji/loopback-passport-satellizer"
+  },
+  "keywords": [
+    "satellizer",
+    "loopback",
+    "passport",
+    "JWT"
+  ],
+  "author": "Jose Eduardo Garcia-Jimenez",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^5.0.5"
+  }
+}
